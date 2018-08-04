@@ -1,0 +1,39 @@
+-	All art found in /WT is original art created for WTactics (c) - 
+    an open source CCG (WTactics.org). 
+	
+-   The art is licensed under a
+    Creative Commons Attribution-ShareAlike 4.0 International License.
+	
+-   You should have received a copy of the license along with this
+    work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
+	
+-	If you have questions or are in doubt, please feel free to contact us at
+	contact@WTactics.org 
+
+~
+
+Our Artists
+ 
+Santiago Iborra (santiago@quellion.com) 
+ - All artwork in /WT except for the pieces below
+ 
+Unrealsmoker
+ - Elven Sword
+ - Elven Bag
+ - Potion Bottle
+ - Small Potion
+ - Eternal protection 
+ - Unshackled
+ - Erode
+ - Kisses Male
+ - Bow
+ - Axe
+ - Donations for recovery
+ - Focus
+ - Guard
+ - Protection
+ - Serenity
+ 
+Kathrin Polikeit
+ - Female Elf Caster
+ - Male Elf Reading
