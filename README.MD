@@ -3,6 +3,7 @@
 	
 -   The art is licensed under a
     Creative Commons Attribution-ShareAlike 4.0 International License.
+	(As of 5 august 2018 - Artwork committed before this date is also licensed under GPLv3)
 	
 -   You should have received a copy of the license along with this
     work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
@@ -10,6 +11,7 @@
 -	If you have questions or are in doubt, please feel free to contact us at
 	contact@WTactics.org 
 
+	
 ~
 
 Our Artists
@@ -33,7 +35,9 @@ Unrealsmoker
  - Guard
  - Protection
  - Serenity
+ - Male Elf Reading
  
 Kathrin Polikeit
  - Female Elf Caster
- - Male Elf Reading
+ - Archer
+ - Druid
