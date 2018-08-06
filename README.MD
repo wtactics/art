@@ -19,7 +19,7 @@ Our Artists
 Santiago Iborra (santiago@quellion.com) 
  - All artwork in /WT except for the pieces below
  
-Unrealsmoker
+Unrealsmoker (BramastaAji / mbah baji)
  - Elven Sword
  - Elven Bag
  - Potion Bottle
@@ -28,6 +28,7 @@ Unrealsmoker
  - Unshackled
  - Erode
  - Kisses Male
+ - Female Kisses
  - Bow
  - Axe
  - Donations for recovery
@@ -36,6 +37,8 @@ Unrealsmoker
  - Protection
  - Serenity
  - Male Elf Reading
+ - Books
+ - Raven
  
 Kathrin Polikeit
  - Female Elf Caster
