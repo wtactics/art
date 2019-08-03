@@ -1,6 +1,8 @@
 -	All art found in /WT is original art created for WTactics (c) - 
     an open source CCG (WTactics.org). 
 	
+-   A searchable collection preview is avaailable at https://arcmage.org/artwork/
+	
 -   The art is licensed under a
     Creative Commons Attribution-ShareAlike 4.0 International License.
 	(As of 5 august 2018 - Artwork committed before this date is also licensed under GPLv3)
