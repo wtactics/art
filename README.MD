@@ -13,6 +13,15 @@
 -	If you have questions or are in doubt, please feel free to contact us at
 	contact@WTactics.org 
 
+-   Featured Samples ([all samples](SAMPLES.MD))
+<p float="left">
+<img height="100px" src="/WT/Ancestral%20Spirit%20Tree/Ancestral%20Spirit%20Tree_150.png?raw=true"  Alt="Ar An Imeall"/>
+<img height="100px" src="/WT/Ar%20An%20Imeall/Ar%20An%20Imeall_150.png?raw=true"  Alt="Archer"/>
+<img height="100px" src="/WT/Archer/Archer_150.png?raw=true"  Alt="Armory"/>
+<img height="100px" src="/WT/Armory/Armory_150.png?raw=true"  Alt="Axe"/>
+<img height="100px" src="/WT/Axe/Axe_150.png?raw=true"  Alt="Babies"/>
+<img height="100px" src="/WT/Babies/Babies_150.png?raw=true"  Alt="Band Of Brothers"/>
+</p>
 	
 ~
 
