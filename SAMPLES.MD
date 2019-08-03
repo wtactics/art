@@ -1,1 +1,1 @@
-![Archer](WT/Archer/Archer.png?raw=true "Archer" =250x)
+![Archer](WT/Archer/Archer.png?raw=true =50x50 "Archer" )
