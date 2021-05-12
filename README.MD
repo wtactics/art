@@ -13,7 +13,7 @@
 -	If you have questions or are in doubt, please feel free to contact us at
 	contact@WTactics.org 
 
--   Featured Samples ([all samples](SAMPLES.MD))
+-   Featured Samples ([more samples](SAMPLES.MD))
 <p float="left">
 <img height="100px" src="/WT/Ancestral%20Spirit%20Tree/Ancestral%20Spirit%20Tree_150.png?raw=true"  Alt="Ar An Imeall"/>
 <img height="100px" src="/WT/Ar%20An%20Imeall/Ar%20An%20Imeall_150.png?raw=true"  Alt="Archer"/>
@@ -29,6 +29,13 @@ Our Artists
  
 Santiago Iborra (santiago@quellion.com) 
  - All artwork in /WT except for the pieces below
+
+Liza Alyakova
+ - Elvish Item Set1
+ - Elvish Item Set2
+ - Human Item Set1
+ - Orc Item Set1
+ - Roman Item Set1
  
 Unrealsmoker (BramastaAji / mbah baji)
  - Elven Sword
