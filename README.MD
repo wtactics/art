@@ -34,6 +34,9 @@ Our Artists
 Santiago Iborra (santiago@quellion.com) 
  - All artwork in /WT except for the pieces below
  
+Chris Wilson (from Londen), not to mistake for the Chris Wilson from Battle for Wesnoth (a.k.a Valkier)
+ - Spider Woman
+ 
 Nico Goeminne
  - Knight
 
